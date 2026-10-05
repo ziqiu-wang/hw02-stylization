@@ -20,8 +20,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Default
-  m_Shader: {fileID: -6465566751694194690, guid: 992f9a9e501e0f6448d2ecde45725b76,
+  m_Name: Jitter_Mat
+  m_Shader: {fileID: -6465566751694194690, guid: 118ce6dc29ba79b4bae9e82712461bb6,
     type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
@@ -140,6 +140,9 @@ Material:
     - _GlossinessSource: 0
     - _GlossyReflections: 1
     - _HighThreshold: 0.7
+    - _Jitter_Amplitude: 0.006
+    - _Jitter_Spatial_Frequency: 12
+    - _Jitter_Steps_Per_Second: 3
     - _LowThreshold: 0.3
     - _MAIN_LIGHT_SHADOWS_CASCADE: 1
     - _Metallic: 0

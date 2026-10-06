@@ -1,17 +1,17 @@
 # HW 2: *3D Stylization*
 Author: Ziqiu Wang
 
-![](Recordings/Cover.png)
+![](Results/Cover.png)
 
 ## Project Summary
 
-Turnaround videos are available in the Recordings folder. Here are the GIF versions of them:
+Here are the GIF versions of some turnaround videos:
 
 Simple turnaround:
-![](Recordings/Movie_003_60fps.gif)
+![](Results/Movie_003_60fps.gif)
 
 Turnaround with effects turned on and off (wobbling outline, paper effect, old-movie effect):
-![](Recordings/Movie_004_with_effects_on_off.gif)
+![](Results/Movie_004_with_effects_on_off.gif)
 
 Many of the effect parameters are customizable.
 
@@ -34,7 +34,7 @@ A second full-screen pass applies a paper-like texture over the rendered scene t
 ### Scene Created
 The scene features a cute Korok (from The Legend of Zelda: Breath of the Wild, of course) holding a leaf in its hand as an umbrella, with separate small meshes for raindrops and grass. The meshes were downloaded from the [Rainy Korok model on Sketchfab](https://sketchfab.com/3d-models/rainy-korok-1969a8dcb90e49a28bc5eedc24df653b).
 
-![](Recordings/Scene.png)
+![](Results/Scene.png)
 
 ### Interactivity
 
